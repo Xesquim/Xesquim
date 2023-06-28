@@ -12,7 +12,7 @@
 <img width="49%" height="195px" src="https://github-readme-stats-xi-eight-46.vercel.app/api?username=xesquim&show_icons=true&theme=dracula">
 <img width="41%" height="195px" src="https://github-readme-stats-xi-eight-46.vercel.app/api/top-langs/?username=xesquim&layout=compact">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xesquim&bg_color=282a36&color=fc6d95&line=fc6d95&point=fc6d95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Xesquim github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xesquim&bg_color=282a36&color=fc6d95&line=fc6d95&point=fc6d95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
