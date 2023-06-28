@@ -6,8 +6,6 @@
 <div align=center>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cesquim/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesquim.err401/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/xesquim)
 
 <img alt="stats" width="49%" height="195px" src="https://github-readme-stats-xi-eight-46.vercel.app/api?username=xesquim&show_icons=true&theme=dracula">
 <img alt="most used languages" width="41%" height="195px" src="https://github-readme-stats-xi-eight-46.vercel.app/api/top-langs/?username=xesquim&layout=compact">
