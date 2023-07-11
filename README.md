@@ -10,11 +10,8 @@
 <img alt="stats" width="49%" height="195px" src="https://github-readme-stats-xi-eight-46.vercel.app/api?username=xesquim&show_icons=true&theme=dracula">
 <img alt="most used languages" width="41%" height="195px" src="https://github-readme-stats-xi-eight-46.vercel.app/api/top-langs/?username=xesquim&layout=compact">
 
-[![Xesquim github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xesquim&bg_color=282a36&color=fc6d95&line=fc6d95&point=fc6d95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Skills)](https://git.io/typing-svg)
 
