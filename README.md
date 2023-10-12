@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cesquim/)
 
-<img alt="stats" width="49%" height="195px" src="https://github-readme-stats-xi-eight-46.vercel.app/api?username=xesquim&show_icons=true&theme=dracula">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xesquim&show_icons=true&theme=dracula&hide=stars)
 <img alt="most used languages" width="41%" height="195px" src="https://github-readme-stats-xi-eight-46.vercel.app/api/top-langs/?username=xesquim&layout=compact">
 
 </div>
