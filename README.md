@@ -41,7 +41,7 @@
 style="width: 1100px; height: 500px;"> </div>
 
 ## Status
-<div align=center>
+<div align="center">
 <img alt="github stats" width="49%" height="175px" src="https://github-readme-stats.vercel.app/api?username=Xesquim&show_icons=true&theme=tokyonight&hide=stars">
 <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xesquim&layout=compact&bg_color=1A1B27&title_color=5C85CB&text_color=38BDAE">
 
