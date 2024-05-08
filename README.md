@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F81F7&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Matheus+😺)](https://git.io/typing-svg)
 
 #
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-cesquim/)
-
 ## Skills
 
 <p align="left"> 
